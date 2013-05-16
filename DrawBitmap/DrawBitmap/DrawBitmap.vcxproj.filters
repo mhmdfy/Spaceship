@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="DrawBitmap.cpp" />
+    <ClCompile Include="GPGameWindow.cpp" />
+    <ClCompile Include="GPGameManager.cpp" />
+    <ClCompile Include="GPSprites.cpp" />
+    <ClCompile Include="GPSpriteComponents.cpp" />
+    <ClCompile Include="GPRock.cpp" />
+    <ClCompile Include="GPShip.cpp" />
+    <ClCompile Include="GPBullet.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="GPGameWindow.h" />
+    <ClInclude Include="GPGameManager.h" />
+    <ClInclude Include="GPSprites.h" />
+    <ClInclude Include="GPSpritePhysics.h" />
+    <ClInclude Include="GPShip.h" />
+    <ClInclude Include="GPBullet.h" />
+  </ItemGroup>
+</Project>
